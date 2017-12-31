@@ -14,7 +14,10 @@
 
 **Link(s) to work**: [none](#)
 
+### Day 3: December 30, 2017 Saturday
 
+**Today's Progress**: Finished "A Comparison of Microsoft Web Technologies" Course.
 
+**Thoughts**: Learned about Web Pages in Visual Studio. Had some trouble getting the db on my version of Visual Studio. But whatever. Learning! Couldn't fully do the demos due to my version of Visual Studio did not fully match the instructor. Oh well. I still got the jist of the course. Really just overview and comparisons. Still, first PluralSight course finished!
 
-
+**Link(s) to work**: [none](#)
